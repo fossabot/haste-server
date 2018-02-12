@@ -1,4 +1,6 @@
 # Haste
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLightDiscord%2Fhaste-server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLightDiscord%2Fhaste-server?ref=badge_shield)
+
 
 Haste is an open-source pastebin software written in node.js, which is easily
 installable in any network.  It can be backed by either redis or filesystem,
@@ -225,6 +227,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLightDiscord%2Fhaste-server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLightDiscord%2Fhaste-server?ref=badge_large)
 
 ### Other components:
 
